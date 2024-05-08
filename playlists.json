@@ -1,0 +1,733 @@
+{
+  "message": "Popular Playlists",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/featured-playlists?offset=0&limit=20&locale=en-GB%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "Hottest Hindi music served here. Cover - Animal",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUfTFmNBRM",
+        "id": "37i9dQZF1DX0XUfTFmNBRM",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000022dcf0a7d9d7686e60f8e3eb0",
+            "width": null
+          }
+        ],
+        "name": "Hot Hits Hindi",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zjof7wAAAABE82Gs7R+0LJ2oMfvhwP1g",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUfTFmNBRM/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0XUfTFmNBRM"
+      },
+      {
+        "collaborative": false,
+        "description": "Let these songs be the background score to your love story. Cover - Teri Baaton Mein Aisa Uljha Jiya",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdpQPPZq3F7n",
+        "id": "37i9dQZF1DXdpQPPZq3F7n",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000263ad8e506c705fca8010f441",
+            "width": null
+          }
+        ],
+        "name": "Bollywood Mush",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zjr/kwAAAAAPcCR2CFTIloci8+IZZLH2",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdpQPPZq3F7n/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXdpQPPZq3F7n"
+      },
+      {
+        "collaborative": false,
+        "description": "Catch the hottest Punjabi tracks with Shubh for his track \"Bandana\"",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXVJK4aT7pmk",
+        "id": "37i9dQZF1DWXVJK4aT7pmk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000258777c952a2f253fcf675e66",
+            "width": null
+          }
+        ],
+        "name": "Hot Hits Punjabi",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zitx/QAAAACctlHn+1UmLPd779t+5xaa",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXVJK4aT7pmk/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXVJK4aT7pmk"
+      },
+      {
+        "collaborative": false,
+        "description": "Every track you're listening/should be listening to ;) Cover- Diljit Dosanjh x Kareena Kapoor",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbVhgADFy3im"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbVhgADFy3im",
+        "id": "37i9dQZF1DXbVhgADFy3im",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002ef8052a4c556673c0b68f368",
+            "width": null
+          }
+        ],
+        "name": "Trending Now India",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zjh15QAAAABWi5R6IUWlk0dMpGJ+LIq6",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbVhgADFy3im/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbVhgADFy3im"
+      },
+      {
+        "collaborative": false,
+        "description": "Party-ready, the biggest Bollywood dance tracks. Cover - Rocky Aur Rani Kii Prem Kahaani",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8xfQRRX1PDm",
+        "id": "37i9dQZF1DX8xfQRRX1PDm",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002e9124f623f4bf5f90b393aa3",
+            "width": null
+          }
+        ],
+        "name": "Bollywood Dance Music",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zjr+UgAAAACSOADSijldKTY0gmL6zEsH",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8xfQRRX1PDm/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX8xfQRRX1PDm"
+      },
+      {
+        "collaborative": false,
+        "description": "Bollywood songs that ruled hearts in the Y2K decade. Cover - Om Shanti Om",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZNJXX2UeBij"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZNJXX2UeBij",
+        "id": "37i9dQZF1DWZNJXX2UeBij",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002ce63eebfef5bed7bb1163bab",
+            "width": null
+          }
+        ],
+        "name": "All Out 00's Hindi",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjjE0wAAAABc8pujR6T8H5D+LYBARylJ",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZNJXX2UeBij/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZNJXX2UeBij"
+      },
+      {
+        "collaborative": false,
+        "description": "Every song that's Trending NOW from Malayalam! \nCover: Aavesham",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTYKFynxp6Fs",
+        "id": "37i9dQZF1DWTYKFynxp6Fs",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002e9a02e482327a99e79476c4b",
+            "width": null
+          }
+        ],
+        "name": "Trending Now Malayalam",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjiJPwAAAACSl2mos30dnvhw+PPBjXsR",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTYKFynxp6Fs/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTYKFynxp6Fs"
+      },
+      {
+        "collaborative": false,
+        "description": "Fall in love with 00's Bollywood like never before! Cover - Kabhi Khushi Kabhie Gham",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVq1SXCH6uFn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVq1SXCH6uFn",
+        "id": "37i9dQZF1DWVq1SXCH6uFn",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000288148e9e5983515f97aba1ca",
+            "width": null
+          }
+        ],
+        "name": "00's Love Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjjDJwAAAADOrxE4bw3/hMys7bONdu78",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVq1SXCH6uFn/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVq1SXCH6uFn"
+      },
+      {
+        "collaborative": false,
+        "description": "Ultimate 101 Punjabi Hits with Sidhu Moose Wala",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5cZuAHLNjGz",
+        "id": "37i9dQZF1DX5cZuAHLNjGz",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002870b0d51f53ceffcd22e041e",
+            "width": null
+          }
+        ],
+        "name": "Punjabi 101",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFf",
+        "public": true,
+        "snapshot_id": "ZjoN0wAAAADsM4DsYDkmIdE5xkPr13zh",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX5cZuAHLNjGz/tracks",
+          "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX5cZuAHLNjGz"
+      },
+      {
+        "collaborative": false,
+        "description": "Trending songs from Tollywood! \nCover: Tillu Square",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTt3gMo0DLxA",
+        "id": "37i9dQZF1DWTt3gMo0DLxA",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002344bde7ee069f45b6da72653",
+            "width": null
+          }
+        ],
+        "name": "Trending Now Telugu",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjIvUAAAAAD4KU9sBPoUL0Mifm6v5+QA",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTt3gMo0DLxA/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTt3gMo0DLxA"
+      },
+      {
+        "collaborative": false,
+        "description": "K..K..K..Kiran to T..T..T..Tuffy, the wonderfully unique decade. Cover - Raja",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa2huSXaKVkW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2huSXaKVkW",
+        "id": "37i9dQZF1DXa2huSXaKVkW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002ade21b666ea6464a7c693c92",
+            "width": null
+          }
+        ],
+        "name": "All Out 90s Hindi",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zgpe2QAAAAAl1R06+EfS1BeDLcS7XZkn",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa2huSXaKVkW/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXa2huSXaKVkW"
+      },
+      {
+        "collaborative": false,
+        "description": "Tune into the Hottest tracks of Kollywood!\nCover : Leo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1i3hvzHpcQV"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1i3hvzHpcQV",
+        "id": "37i9dQZF1DX1i3hvzHpcQV",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000029b6b827913a29a7aee530f05",
+            "width": null
+          }
+        ],
+        "name": "Hot Hits Tamil",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjR3ugAAAABB0XhQI/T/aHu9Lq2XW3BS",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1i3hvzHpcQV/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1i3hvzHpcQV"
+      },
+      {
+        "collaborative": false,
+        "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage ❤️ Cover - Animal",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWXtlo6ENS92N"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXtlo6ENS92N",
+        "id": "37i9dQZF1DWXtlo6ENS92N",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002efcd35fd64a73060bb6605e4",
+            "width": null
+          }
+        ],
+        "name": "Bollywood Central",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zjr97gAAAADeiMrnCSkk6smiMaps+t5z",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWXtlo6ENS92N/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWXtlo6ENS92N"
+      },
+      {
+        "collaborative": false,
+        "description": "Top Trending Tamil Songs on Social Media\nCover : Aranmanai 4",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4Im4BTs2WMg"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4Im4BTs2WMg",
+        "id": "37i9dQZF1DX4Im4BTs2WMg",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000022933437d88d2661a3524932a",
+            "width": null
+          }
+        ],
+        "name": "Trending Now Tamil",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjR8ZgAAAACwnMsSErHC5gUR08Yvy2JC",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4Im4BTs2WMg/tracks",
+          "total": 76
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4Im4BTs2WMg"
+      },
+      {
+        "collaborative": false,
+        "description": "Bright, sunny, catchy tunes put a smile on your face. Cover - Baar Baar Dekho",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwbZHrJRIgD",
+        "id": "37i9dQZF1DWTwbZHrJRIgD",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000222208afdb5e1eb4c314d280e",
+            "width": null
+          }
+        ],
+        "name": "Happy Vibes ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjsBgAAAAAA6HkzsD0dB+gi2FcyXOPjf",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTwbZHrJRIgD/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWTwbZHrJRIgD"
+      },
+      {
+        "collaborative": false,
+        "description": "Tune in to the Hottest Tracks of Tollywood!\nCover : Pushpa 2",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6XE7HRLM75P"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6XE7HRLM75P",
+        "id": "37i9dQZF1DX6XE7HRLM75P",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002b01796469d0f5c31bf79e41c",
+            "width": null
+          }
+        ],
+        "name": "Hot Hits Telugu",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjjEnQAAAABB77rFjvPvAxSXCDlxQXcG",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6XE7HRLM75P/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6XE7HRLM75P"
+      },
+      {
+        "collaborative": false,
+        "description": "India's Ultimate Love Playlist. Cover- Shahid Kapoor & Kirti Sanon",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX14CbVHtvHRB"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX14CbVHtvHRB",
+        "id": "37i9dQZF1DX14CbVHtvHRB",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000229287350f8f71244a2360d24",
+            "width": null
+          }
+        ],
+        "name": "Trending Valentine's Hits ",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZitR+AAAAACrnzb8EPMjyc3/0iKtgwQL",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX14CbVHtvHRB/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX14CbVHtvHRB"
+      },
+      {
+        "collaborative": false,
+        "description": "Bollywood crooner's essential songs.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWYztMONFqfvX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYztMONFqfvX",
+        "id": "37i9dQZF1DWYztMONFqfvX",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000023ec51dd9c17a9add42c2e249",
+            "width": null
+          }
+        ],
+        "name": "This Is Arijit Singh",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZjocdAAAAABboLTxa6LXvVWupeQGn18P",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWYztMONFqfvX/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWYztMONFqfvX"
+      },
+      {
+        "collaborative": false,
+        "description": "Let your heart sing all the 90s love songs you'll ever need. Cover - Saajan",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa6iPZDThhLh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa6iPZDThhLh",
+        "id": "37i9dQZF1DXa6iPZDThhLh",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000024f914e32de8705febdbda75f",
+            "width": null
+          }
+        ],
+        "name": "90s Love Hits",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZgvKgQAAAABeIvGiBCLAoaqSs4VIr/ko",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa6iPZDThhLh/tracks",
+          "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXa6iPZDThhLh"
+      },
+      {
+        "collaborative": false,
+        "description": "Everything from cheesy floor-fillers to big beat bangers. Cover - Hero No. 1",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWQ4RVrwACVr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWQ4RVrwACVr",
+        "id": "37i9dQZF1DWWQ4RVrwACVr",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000020cc883eaf497068eaaea4fbc",
+            "width": null
+          }
+        ],
+        "name": "90s Swagger",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "ZfAJEgAAAABv0N6C66MEA/aGiZr1Vhlz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWQ4RVrwACVr/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWWQ4RVrwACVr"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/browse/featured-playlists?offset=20&limit=20&locale=en-GB%2Cen-US%3Bq%3D0.9%2Cen%3Bq%3D0.8",
+    "offset": 0,
+    "previous": null,
+    "total": 100
+  }
+}
